@@ -190,10 +190,10 @@ ORDER BY
 
 ## 👨‍💻 Tecnologias
 
-- MySQL / MariaDB
+- MySQL Workbench (create, insert) 
 - MySQL Workbench (modelagem visual)
 
 ---
 
-**Autor:** Projeto Acadêmico de Modelagem Dimensional  
-**Data:** 2024
+**Autor:** André Grosso  
+**Data:** 2026-04-09
